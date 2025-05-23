@@ -1,5 +1,4 @@
-# Certifications
-
+# 📜 Certifications
 A selection of completed courses demonstrating expertise in machine learning and artificial intelligence.
 
 * [Supervised Machine Learning: Regression & Classification](https://coursera.org/verify/VG65ZC8RQAM4)
